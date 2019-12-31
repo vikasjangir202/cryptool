@@ -1,0 +1,12 @@
+*{padding: 0px;margin: 0px;box-sizing: border-box;font-family: 'Ubuntu', sans-serif;}
+.full{width: 100%;float: left;background: url(background1.jpg);background-size:cover;height: 100vh;}
+.full .center{width: 800px;float: left;margin: auto;}
+.center .box{width: 100%;float: left;
+padding: 20px;    margin-left: 470px;
+    margin-top: 120px;}
+.box .left{width: 10%;float: left;}
+.box .right{width: 80%;float: left;}
+ span{font-size: 27px; padding: 10px;  }
+ input{width: 50%; border: 1px solid black; font-size: 18px; background: none;border-radius: 10px;padding: 3px; margin:2px 2px 2px 50px;}
+ textarea{width: 50%; border: 1px solid black; background: none;border-radius: 10px;padding: 3px; margin:3px 3px 3px 50px;}
+.send {cursor: pointer; background: white;width: 10%;}

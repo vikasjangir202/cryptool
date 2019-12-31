@@ -1,0 +1,15 @@
+*{margin: 0px;padding: 0px;box-sizing: border-box;}
+.over{width: 100%;float: left;}
+.img{width: 100%;float: left;}
+.img img{width: 100%;background-size: cover;background-position: center;position: relative;}
+.main{width: 100%;float: left;position: absolute;}
+
+
+.right .input	{border: 2px solid black; border-radius: 3px; font-size: 15px;padding: 5px;
+	margin: 10px 0px 10px 15px;}
+.right .sub{font-size: 20px;background-color: black;color: white;border: 3px solid skyblue; border-radius: 50px;padding: 10px;}
+.right .sub:hover{background-color: skyblue;color: black;}
+.right span{font-size: 17px;padding-left: 10px;}
+.select span{padding-left: 20px;}
+.right a{text-decoration: none;border: 1px solid skyblue;background-color: black;color:white;border-radius: 50px;padding:5px;cursor: pointer;}
+.right a:hover{background-color: skyblue;color: black;}

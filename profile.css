@@ -1,0 +1,10 @@
+*{margin: 0%;padding: 0%;box-sizing: border-box;}
+.over{width: 100%;float: left;background: url(background.jpg);background-size:cover;height: 100vh;}
+.over .left{width: 60%; float: left;}
+.over .right{width: 40%;float: right;margin: 80px 70px;}
+.right .box{width: 100%;float: left;height: 300px;position: relative;
+}
+.right .inputs{width: 100%;float: left;}
+.inputs .output {font-size: 20px; color: black;}
+span{line-height: 40px;border: 1px solid black;padding: 9px;}
+.right .heading{width: 100%;float: left;}

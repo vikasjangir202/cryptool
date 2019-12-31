@@ -1,0 +1,23 @@
+*{margin: 0px;padding: 0px;box-sizing: border-box;}
+.container{width: 100%;float: left;}
+body{font-family: 'Sulphur Point', sans-serif;
+}
+.container img{max-width: 100%; height: auto;position: absolute;}
+.box{width: 50%;float: left;position: relative;top: 50%;left: 50%;
+transform: translate(-50%,30%);border:1px solid yellow;
+text-align: center; border-radius: 10px;height: 350px;}
+.content{
+	background-color: transparent; height: 300px;}
+	p{display: inline-block; color: white;font-size: 20px;}
+textarea{background-color: transparent;color: white;margin:10px;}
+h1{color: white;margin:10px;}
+.bt{ background:none; font-size: 20px; border: 1px solid #FE0B0D;
+border-radius: 5px; cursor: pointer; padding: 5px;color: white;
+margin: 10px;}
+.bt:hover{background-color: #FE0B0D;color: white;}
+a{text-decoration: none;background:none; font-size: 20px; border: 1px solid #FE0B0D;
+border-radius: 5px; cursor: pointer; padding: 5px;color: white;
+margin: 10px; text-align: center;	}
+.btt{background:none; font-size: 20px; border: 1px solid #FE0B0D;
+border-radius: 5px;  padding: 5px;color: white;
+margin: 10px;}

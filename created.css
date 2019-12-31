@@ -1,0 +1,8 @@
+*{margin: 0px;padding: 0px;box-sizing: border-box;}
+.over{width: 100%;float: left;background: url(background.jpg);background-size:cover;height: 100vh;}
+.over .left{width: 60%;float: left;}
+.over .right{width: 40%;float: right;}
+.right .box{width: 100%;float: left;margin: 214px 1px;}
+.box span{font-size: 20px;margin: 5px;}
+.box a{font-size: 20px;text-decoration: none;border: 1px solid skyblue;border-radius: 50px;background: black;color: white;padding: 5px;}
+.box a:hover{background: skyblue;color: white;}
